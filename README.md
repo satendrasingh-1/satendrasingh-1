@@ -43,28 +43,16 @@ Outside tech, you’ll find me:
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/satendra-singh/satendra-singh/blob/output/github-contribution-grid-snake.gif)  
-
----
-
-## 🏅 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=satendra-singh&theme=radical&margin-w=15&margin-h=15)  
-
----
-
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satendra-pratap-singh)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satendrapratap/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://satendrasingh-1.github.io/portfolio-/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/satendra_pratap_singh/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/satendrapratap)  
 
 ---
 
 ⭐️ *“Code. Learn. Build. Repeat.”*  
 
-
-<! --## Hi there 👋 -->
 
 <!--
 **satendrasingh-1/satendrasingh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
