@@ -33,13 +33,14 @@ Outside tech, you’ll find me:
 - 💼 **Portfolio Website** – Showcasing my journey & skills  
 
 ---
-
+```
 ## 📊 GitHub Stats & Streaks  
 ![Satendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=satendra-singh&show_icons=true&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=satendra-singh&theme=radical&hide_border=true)  
 
-![cpp](https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-singh&layout=compact&theme=radical)  
+![cpp](https://github-readme-stats.vercel.app/api/top-langs/?username=satendra-singh&layout=compact&theme=radical)
+```
 
 ## 🛠️ Languages & Tools  
 
